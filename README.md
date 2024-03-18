@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/-Pytorch-3776AB?style=flat-square&logo=Pytorch&logoColor=fff)
 
 
-
-了解更多可以点击下面的链接：
+---
+<font face="微软雅黑" color=#00FFFF size=5>相关活跃平台</font>：
 
 [哔哩哔哩](https://space.bilibili.com/287906485) | [网易云主页](https://music.163.com/#/artist?id=51429242)
