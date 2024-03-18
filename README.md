@@ -1,4 +1,4 @@
-<img align='left' src="assets/author.jpg" height="200">
+<img align='left' src="assets/author.png" height="200">
 
 <!-- <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ksuriuri&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
