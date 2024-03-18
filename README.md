@@ -14,5 +14,4 @@
 
 了解更多可以点击下面的链接：
 
-b站：https://space.bilibili.com/287906485
-网易云主页：https://music.163.com/#/artist?id=51429242
+[哔哩哔哩](https://space.bilibili.com/287906485) | [网易云主页](https://music.163.com/#/artist?id=51429242)
